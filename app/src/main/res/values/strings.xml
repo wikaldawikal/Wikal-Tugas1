@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Latihan Android</string>
+    <string name="kode_keluarga">Kode Keluarga</string>
+    <string name="welcome_text">Monitory Membantu Anda \n Mengontrol Hp Anak </string>
+    <string name="ketikan_kode_keluarga">Ketikkan kode keluarga yang Ayah Bunda\nmiliki disini</string>
+    <string name="kebijakan">Dengan menekan tombol masuk berarti Anda menyetujui\n<b>Ketentuan Pengguna</b> dan <b>Kebijakan Data</b> kami</string>
+    <string name="belum_punya">Belum punya kode keluarga?</string>
+    <string name="beli_kode_keluarga">Beli Kode Keluarga Disini</string>
+    <string name="contoh_umur">Contoh : 12</string>
+    <string name="contoh_nama">Contoh : Budi</string>
+    <string name="nama_panggilan">Nama Panggilan Kamu</string>
+    <string name="umur">Umur Kamu</string>
+    <string name="finish_text">Beres! Sekarang kamu\nudah bisa ngecek\npenggunaan HP mu\ntiap hari buat bantu kamu\nngatur waktu :)</string>
+</resources>
