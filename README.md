@@ -1,3 +1,4 @@
-# Projek
-Tugas AKB IF2
-This project only for Android Studio
+# TUGAS 1
+-> Nim : 10116082
+-> Nama : Wikal pratama
+-> Kelas : IFK14
